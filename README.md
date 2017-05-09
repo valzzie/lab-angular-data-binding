@@ -8,7 +8,7 @@ After weeks of working on code at Ironhack, and putting on the dreaded Ironhack 
 
 Our solution: A Nutrition App.
 
-![](images/autocomplete.gif)
+![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_0e106e84e22155f1d2775e37cd4aa865.gif)
 
 ## Requirements
 
